@@ -130,8 +130,9 @@ fc_net,1,PluginInfo,x,x,x,x,x,x,x,x,x,x
 ,128,msgCyRoleList,,,,,,,,,,x
 ,,,73,79,117,117,58,96,111,112,116,127
 ,,,,,,,,,,,,
-fc_file_transfer,1,FileData,,*,x,x,x,x,x,x,x,x
-,2,File,,*,x,x,x,x,x,x,x,x
-,3,Reply,,*,x,x,x,x,x,x,x,x
+fc_file_transfer,1,FileData,,x,x,x,x,x,x,x,x,x
+,2,File,,x,x,x,x,x,x,x,x,x
+,3,Reply,,x,x,x,x,x,x,x,x,x
 ,4,MsgDbFileInfo,,,x,x,,x,x,x,x,x
+
 ,,,,3,4,4,3,4,4,4,4,4
